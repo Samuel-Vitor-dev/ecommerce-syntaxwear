@@ -6,7 +6,7 @@
 .footer-content {
     max-width: 1360px;
     margin: 0 auto;
-    padding: 40px;
+    padding: 2.5rem;
     display: flex;
     justify-content: space-between;
 }
@@ -50,8 +50,8 @@
 .newsletter-form input{
     border-radius: 30px;
     color: #AAAAAA;
-    padding: 12px 20px;
-    width: 344px;
+    padding: 0.75rem 1.25rem;
+    width: 21.5rem;
 }
 .footer-social span{
     margin-bottom: 16px;
